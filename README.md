@@ -3,7 +3,6 @@
 ## Linkedin:
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="sabrina-gobel-73450b9"><a class="LI-simple-link" href='https://br.linkedin.com/in/sabrina-gobel-73450b9?trk=profile-badge'>Sabrina Gobel</a></div>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="sabrina-gobel-73450b9"><a class="LI-simple-link" href='https://br.linkedin.com/in/sabrina-gobel-73450b9?trk=profile-badge'>Sabrina Gobel</a></div>
 
 <!--
 **sabrinagobel/sabrinagobel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
